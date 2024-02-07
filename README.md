@@ -1,1 +1,1 @@
-# CryptoClustering
+In this project, we performed a cluster analysis on cryptocurrency market data using the K-Means algorithm, after scaling the data and reducing its dimensionality with PCA. We then visualized the clusters and used the elbow method to find the optimal number of clusters.
